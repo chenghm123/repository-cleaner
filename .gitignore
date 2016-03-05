@@ -1,0 +1,8 @@
+logs
+.idea
+.project
+.classpath
+.settings
+.externalToolBuilders
+target
+repository-cleaner.iml
