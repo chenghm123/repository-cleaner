@@ -6,7 +6,6 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>${project.artifactId}</name>
-    <description>This is maven repository cleaner project !</description>
     <properties>
         <java.version>1.7</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
