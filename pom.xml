@@ -14,7 +14,7 @@
         <project.reporting.outputEncoding>${default.encoding}</project.reporting.outputEncoding>
         <project.build.sourceEncoding>${default.encoding}</project.build.sourceEncoding>
         <skipTests>true</skipTests>
-        <mainClass>org.accelerator.maven.cleaner.MainRunner</mainClass>
+        <mainClass>org.accelerator.maven.repositorycleaner.MainRunner</mainClass>
     </properties>
     <dependencies>
         <dependency>
